@@ -4,7 +4,7 @@ This project demonstrates how to use Python as a producer and Java as a consumer
 1. **Clone the Project from GitHub:**
 Clone the project repository to your local machine.
    ```sh
-   git clone 
+   git clone https://github.com/saicharith02/KafkaProjectWithDocker.git
    ```
 2. **Navigate to the Project Directory:**
 After cloning the project, open a terminal and navigate to the project directory.
